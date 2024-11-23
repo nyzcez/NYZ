@@ -17,6 +17,10 @@
 - **Lisans Sistemi:**  
   - Program, lisans bilgilerinizi yalnızca bir kez girmenizi ister. Daha sonra bu bilgiyi `lisans.txt` dosyasında saklayarak otomatik etkinleştirme sağlar.  
 
+- **Güncelleme Desteği:**  
+  - **Otomatik Güncelleme:** Yazılımı en son sürüme kolayca yükseltmek için.  
+  - **Eski Sürüm Kullanımı:** Kullanıcı, eski sürümü tercih ederse, mevcut sürümü kullanmaya devam edebilir.  
+
 - **Hafif ve Hızlı:**  
   - Minimal kaynak tüketimiyle hem eski hem de modern sistemlerde sorunsuz çalışır.  
 
